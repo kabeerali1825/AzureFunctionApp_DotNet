@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Assignment1_OPS_OrderCompletedQueue": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7017",
+      "launchBrowser": false
+    }
+  }
+}

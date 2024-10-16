@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Distributed_System_Integration": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7211",
+      "launchBrowser": false
+    }
+  }
+}

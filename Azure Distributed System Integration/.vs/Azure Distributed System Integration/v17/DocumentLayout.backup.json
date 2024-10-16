@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net and Clouds\\Azure Distributed System Integration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479FF764-1EF1-41FB-8A27-D04D914516AA}|Azure Distributed System Integration\\Azure Distributed System Integration.csproj|d:\\.net and clouds\\azure distributed system integration\\azure distributed system integration\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{479FF764-1EF1-41FB-8A27-D04D914516AA}|Azure Distributed System Integration\\Azure Distributed System Integration.csproj|solutionrelative:azure distributed system integration\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479FF764-1EF1-41FB-8A27-D04D914516AA}|Azure Distributed System Integration\\Azure Distributed System Integration.csproj|d:\\.net and clouds\\azure distributed system integration\\azure distributed system integration\\distributed_system1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479FF764-1EF1-41FB-8A27-D04D914516AA}|Azure Distributed System Integration\\Azure Distributed System Integration.csproj|solutionrelative:azure distributed system integration\\distributed_system1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\.Net and Clouds\\Azure Distributed System Integration\\Azure Distributed System Integration\\local.settings.json",
+              "RelativeDocumentMoniker": "Azure Distributed System Integration\\local.settings.json",
+              "ToolTip": "D:\\.Net and Clouds\\Azure Distributed System Integration\\Azure Distributed System Integration\\local.settings.json",
+              "RelativeToolTip": "Azure Distributed System Integration\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T10:37:21.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Distributed_System1.cs",
+              "DocumentMoniker": "D:\\.Net and Clouds\\Azure Distributed System Integration\\Azure Distributed System Integration\\Distributed_System1.cs",
+              "RelativeDocumentMoniker": "Azure Distributed System Integration\\Distributed_System1.cs",
+              "ToolTip": "D:\\.Net and Clouds\\Azure Distributed System Integration\\Azure Distributed System Integration\\Distributed_System1.cs",
+              "RelativeToolTip": "Azure Distributed System Integration\\Distributed_System1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:37:25.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

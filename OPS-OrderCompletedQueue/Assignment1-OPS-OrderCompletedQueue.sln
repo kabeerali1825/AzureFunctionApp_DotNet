@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1-OPS-OrderCompletedQueue", "Assignment1-OPS-OrderCompletedQueue\Assignment1-OPS-OrderCompletedQueue.csproj", "{C129FF2D-CBD3-4DA9-9D69-A6DCA3A05ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C129FF2D-CBD3-4DA9-9D69-A6DCA3A05ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C129FF2D-CBD3-4DA9-9D69-A6DCA3A05ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C129FF2D-CBD3-4DA9-9D69-A6DCA3A05ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C129FF2D-CBD3-4DA9-9D69-A6DCA3A05ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C317A8-BB2D-4C1F-B7C0-F7F9333799BC}
+	EndGlobalSection
+EndGlobal

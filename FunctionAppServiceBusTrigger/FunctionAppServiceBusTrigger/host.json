@@ -1,0 +1,23 @@
+{
+    "version": "2.0",
+    "logging": {
+        "applicationInsights": {
+            "samplingSettings": {
+                "isEnabled": true,
+                "excludedTypes": "Request"
+            },
+            "enableLiveMetricsFilters": true
+        }
+    },
+    "extensions": {
+        "serviceBus": {
+            "messageHandlerOptions": {
+                "maxConcurrentCalls": 16, // Controls concurrency of messages processed
+                "autoComplete": true, // Automatically complete the message once processed
+                "maxAutoRenewDuration": "00:05:00", // Max time to renew message lock
+                "maxMessageRetryCount": 5 // Number of retries before dead-lettering
+            },
+            "prefetchCount": 100 // Number of messages to prefetch from the queue
+        }
+    }
+}
